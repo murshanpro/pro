@@ -2,7 +2,7 @@
     {
         "id": "1",
         "ads_data": "{\"sdk_key\":\"if\",\"banner_ad_id\":\"ic\",\"inter_ad_id\":\"coc\",\"native_ad_id\":\"ic\"}",
-        "download_url": "https:\/\/example.com\/download.apk",
+        "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.cricket.update.live",
         "web_url": "https:\/\/example.com",
         "app_version": "0",
         "message": "New update available!",
