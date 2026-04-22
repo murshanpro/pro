@@ -5,7 +5,7 @@
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.cricket.update.live",
         "web_url": "https:\/\/example.com",
         "app_version": "0",
-        "message": "New update available!",
+        "message": "We sincerely apologize \ud83d\ude4f Our previous app was removed from the Play Store, which is why we asked you to download our new app.  (Please support us by using the new app and giving a 5\u2b50 rating \ud83c\udf1f)\n\nThank you for your support \u2764\ufe0f",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.cricket.update.live",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.cricket.update.live",
         "bottom_visible": "no",
