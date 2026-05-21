@@ -5,7 +5,7 @@
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.cricket.update.live",
         "web_url": "https:\/\/example.com",
         "app_version": "0",
-        "message": "We sincerely apologize \ud83d\ude4f Our previous app was removed from the Play Store, which is why we asked you to download our new app.  (Please support us by using the new app and giving a 5\u2b50 rating \ud83c\udf1f)\n\nThank you for your support \u2764\ufe0f",
+        "message": "Bored? \ud83d\ude34\nPlay Arrow Escape - Rescue the Pets \ud83d\udc3e\ud83c\udff9\nSolve tricky puzzles, free cute pets, and challenge your brain with every level! \ud83c\udfae\u2728",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.funzar.arrow",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.cricket.update.live",
         "bottom_visible": "no",
